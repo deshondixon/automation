@@ -27,6 +27,6 @@ Duplicate entries are not allowed.
 
 ## Run
 
-- To run program: python3.11 ./automation.py
+- To run program: python3.11 ./automation/automation.py
 
 
